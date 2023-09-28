@@ -1,3 +1,4 @@
+
 ### Negative correlation
 1. Contract (-0.396713) - Contract type. A large negative correlation indicates a strong influence of this feature on the decrease in outflow. Clients with long-term contracts are less likely to leave.
 
